@@ -45,3 +45,6 @@ O projeto foi feito baseado em um E-COMMERCE fictício que foi implantado em out
 
 ![image](https://github.com/ariceliom/sql-Construindo-seu-Primeiro-Projeto-L-gico-de-Banco-de-Dado/assets/89526853/2319061b-1312-4d77-85ce-d37893fbb2a7)
 
+# *Link de verificação*
+
+https://www.dio.me/certificate/RWXYC14F/share
