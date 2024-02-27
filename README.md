@@ -41,3 +41,7 @@ Assim como demonstrado durante o desafio, realize a criação do Script SQL para
 
 O projeto foi feito baseado em um E-COMMERCE fictício que foi implantado em outro projeto DIO também, imaginado e pensado para que fosse tirado o maior proveito de aprendizagem do aluno, a ferramenta utilizada foi o MySQL Workbench conforme orientado pela professora que ministra o curso.
 
+### **Certificado**
+
+![image](https://github.com/ariceliom/sql-Construindo-seu-Primeiro-Projeto-L-gico-de-Banco-de-Dado/assets/89526853/2319061b-1312-4d77-85ce-d37893fbb2a7)
+
